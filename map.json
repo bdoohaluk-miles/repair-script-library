@@ -123,5 +123,10 @@
 		"id": "remove-cs291",
 		"path": "src/windows/remove-cs291.ps1",
 		"description": "Remove faulty CrowdStrike driver."
+	},
+		{
+		"id": "remove-cs291-alldrives",
+		"path": "src/windows/remove-cs291-alldrives.ps1",
+		"description": "Remove faulty CrowdStrike driver from all drives"
 	}
 ]
