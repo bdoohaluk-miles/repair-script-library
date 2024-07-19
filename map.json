@@ -119,4 +119,9 @@
 		"path": "src/windows/win-update-registry.ps1",
 		"description": "Modify the registry on an OS disk attached to a Rescue VM as an Azure Data Disk."
 	}
+		{
+		"id": "remote-cs291",
+		"path": "src/windows/remove-cs291.ps1",
+		"description": "Remove faulty CrowdStrike driver."
+	}
 ]
